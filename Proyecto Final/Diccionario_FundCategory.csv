@@ -1,0 +1,121 @@
+Codigo_Numerico,Nombre_Categoria
+0,Allocation--15% to 30% Equity
+1,Allocation--30% to 50% Equity
+2,Allocation--50% to 70% Equity
+3,Allocation--70% to 85% Equity
+4,Allocation--85%+ Equity
+5,Bank Loan
+6,China Region
+7,Commodities Broad Basket
+8,Communications
+9,Consumer Cyclical
+10,Consumer Defensive
+11,Convertibles
+12,Corporate Bond
+13,Derivative Income
+14,Diversified Emerging Mkts
+15,Diversified Pacific/Asia
+16,Emerging Markets Bond
+17,Emerging-Markets Local-Currency Bond
+18,Energy Limited Partnership
+19,Equity Energy
+20,Equity Market Neutral
+21,Equity Precious Metals
+22,Europe Stock
+23,Event Driven
+24,Financial
+25,Foreign Large Blend
+26,Foreign Large Growth
+27,Foreign Large Value
+28,Foreign Small/Mid Blend
+29,Foreign Small/Mid Growth
+30,Foreign Small/Mid Value
+31,Global Real Estate
+32,Health
+33,High Yield Bond
+34,High Yield Muni
+35,India Equity
+36,Industrials
+37,Inflation-Protected Bond
+38,Infrastructure
+39,Intermediate Core Bond
+40,Intermediate Core-Plus Bond
+41,Intermediate Government
+42,Japan Stock
+43,Large Blend
+44,Large Growth
+45,Large Value
+46,Latin America Stock
+47,Long Government
+48,Long-Short Credit
+49,Long-Short Equity
+50,Long-Term Bond
+51,Macro Trading
+52,Market Neutral
+53,Mid-Cap Blend
+54,Mid-Cap Growth
+55,Mid-Cap Value
+56,Miscellaneous Region
+57,Miscellaneous Sector
+58,Multialternative
+59,Multisector Bond
+60,Multistrategy
+61,Muni California Intermediate
+62,Muni California Long
+63,Muni Massachusetts
+64,Muni Minnesota
+65,Muni National Interm
+66,Muni National Long
+67,Muni National Short
+68,Muni New Jersey
+69,Muni New York Intermediate
+70,Muni New York Long
+71,Muni Ohio
+72,Muni Pennsylvania
+73,Muni Single State Interm
+74,Muni Single State Long
+75,Muni Single State Short
+76,Muni Target Maturity
+77,Natural Resources
+78,Nontraditional Bond
+79,Options Trading
+80,Pacific/Asia ex-Japan Stk
+81,Preferred Stock
+82,Real Estate
+83,Relative Value Arbitrage
+84,Short Government
+85,Short-Term Bond
+86,Small Blend
+87,Small Growth
+88,Small Value
+89,Systematic Trend
+90,Tactical Allocation
+91,Target-Date 2000-2010
+92,Target-Date 2015
+93,Target-Date 2020
+94,Target-Date 2025
+95,Target-Date 2030
+96,Target-Date 2035
+97,Target-Date 2040
+98,Target-Date 2045
+99,Target-Date 2050
+100,Target-Date 2055
+101,Target-Date 2060+
+102,Target-Date Retirement
+103,Technology
+104,Trading--Inverse Commodities
+105,Trading--Inverse Debt
+106,Trading--Inverse Equity
+107,Trading--Leveraged Debt
+108,Trading--Leveraged Equity
+109,Trading--Miscellaneous
+110,Ultrashort Bond
+111,Unknown
+112,Utilities
+113,World Allocation
+114,World Bond
+115,World Bond-USD Hedged
+116,World Large Stock
+117,World Large-Stock Blend
+118,World Large-Stock Growth
+119,World Small/Mid Stock
