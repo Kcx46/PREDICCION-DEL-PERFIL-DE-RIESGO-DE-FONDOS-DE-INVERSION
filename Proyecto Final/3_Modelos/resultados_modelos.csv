@@ -1,0 +1,5 @@
+Modelo,Tipo,Accuracy,Comentarios
+Regresión Logística,Lineal (Base),0.5173,No captura relaciones complejas
+XGBOOST,No Lineal (Boosting),0.7604,Mejora patrones no lineales
+Ensamble,No Lineal (Stacking),0.8722,Gran Estabilidad
+Random Forest,No Lineal (Bagging),0.8934,Mejor balance y estabilidad
